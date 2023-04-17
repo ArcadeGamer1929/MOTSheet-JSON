@@ -6,6 +6,16 @@ Can be used with or without the command line. LibreOffice Calc is highly recomme
 
 #### Requires Python 3.
 
+# Usage
+
+```
+  -h, --help            show this help message and exit
+  -c, --tocsv           converts a PD_Tool MOT JSON to a CSV spreadsheet
+  -j, --tojson          converts a CSV spreadsheet to a PD_Tool MOT JSON
+  -i INPUT, --input INPUT
+  -o OUTPUT, --output OUTPUT
+```
+
 # Credits
 
 * [korenkonder](https://github.com/korenkonder) for PD_Tool
